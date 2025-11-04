@@ -7,11 +7,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Embedded%20Linux-333333?style=for-the-badge&logo=linux&logoColor=FCC624"/>
   <img src="https://img.shields.io/badge/Embedded%20Systems-0A84FF?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
   <img src="https://img.shields.io/badge/AIoT-00A8E8?style=for-the-badge&logo=internetofthings&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RTOS-4B0082?style=for-the-badge&logo=https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/freertos.svg&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FreeRTOS-4B0082?style=for-the-badge&logo=https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/freertos.svg&logoColor=white"/>
 
 
 
