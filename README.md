@@ -20,7 +20,7 @@
 
 ### 👩‍💻 About Me  
 
-🎓 Son Truong is my name - a **final-year Computer Engineering student** specializing in **Embedded Systems** and **Artificial Intelligence**.  
+🎓 I'm a **final-year Computer Engineering student** specializing in **Embedded Systems** and **Artificial Intelligence**.  
 I’m passionate about building **intelligent, efficient, and deployable AI systems** that bridge the gap between **academic research** and **real-world applications**.  
 
 
@@ -29,8 +29,7 @@ I’m passionate about building **intelligent, efficient, and deployable AI syst
 - 🔌 Embedded AI & Intelligent IoT Systems  
 - 🧩 Edge AI & TinyML for resource-limited hardware  
 
-☕ Outside of engineering, I’m inspired by **books**, **coffee**, and **creative project management** —  
-where **technology meets curiosity** and **strategy fuels innovation**.  
+☕ Outside of engineering, I’m inspired by **books**, **coffee**, and **travel** 
 
 📫 **Let’s connect and collaborate!**  
 I'm constantly exploring, learning, and evolving — striving to create value not just through technology, but through personal growth. 
