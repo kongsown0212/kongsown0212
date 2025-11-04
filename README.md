@@ -32,8 +32,8 @@ I’m passionate about building **intelligent, efficient, and deployable AI syst
 
 
 ⚙️ **Technical Interests:**
-- 🧠 Deep Learning & Model Optimization  
-- 🔌 Embedded AI & Intelligent IoT Systems  
+- <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/0f24b7ea-826a-48a0-9ce1-23a4ae8779b8" /> Deep Learning & Model Optimization  
+- <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/c82d39be-51fe-465d-81ae-44ed8ed0a9b8" /> Embedded AI & Intelligent IoT Systems  
 - 🧩 Edge AI & TinyML for resource-limited hardware  
 
 ☕ Outside of engineering, I’m inspired by **books**, **coffee**, and **travel** 
