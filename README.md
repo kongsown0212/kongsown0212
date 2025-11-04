@@ -27,7 +27,7 @@
 
 ### 👩‍💻 About Me  
 
- I'm a **final-year Computer Engineering student** specializing in **Embedded Systems** and **Artificial Intelligence**.  
+ I'm a **final-year Computer Engineering student** specializing in **Embedded Systems** and **AIoT**.  
 I’m passionate about building **intelligent, efficient, and deployable AI systems** that bridge the gap between **academic research** and **real-world applications**.  
 
 
