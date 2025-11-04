@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/Embedded%20Systems-0A84FF?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
   <img src="https://img.shields.io/badge/AIoT-00A8E8?style=for-the-badge&logo=internetofthings&logoColor=white"/>
 
+
 </p>
 
 
